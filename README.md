@@ -18,8 +18,7 @@ A collection of datasets from three locations of operation namely; Astoria, Hell
 - Lowest grossing product is Packaged Chocolate.
 - June had the highest amount sold at $166,486.
 - February had the lowest amount sold at $76,146.
-- - Sales increased during te second quater.
-﻿﻿- June accounted for 23.82% of sum of amount sold.
+- Sales increased during the second quater.
 - Sales declined by 38% in the first quater.
 - Highest sales time ranged between 7:00AM to 11:00AM.
 - Lowest sales time is 1:00AM.
