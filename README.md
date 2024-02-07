@@ -2,7 +2,7 @@
 A collection of datasets from three locations of operation namely; Astoria, Hell's Kitchen and Lower Manhattan. This analysis focused on the first and second quater sales of 2023. All Data query, cleaning and visualization were created on PowerBi. 
 # Key Insights
 - Sales Performance Overview (Sliced by: Month)
-- Total Store : 3
+- Total Store: 3
 - Total Product Category: 9
 - Total Product Type: 29
 - Total Product detail: 80
