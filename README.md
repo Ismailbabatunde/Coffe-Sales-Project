@@ -24,6 +24,6 @@ A collection of datasets from three locations of operation namely; Astoria, Hell
 - Lowest sales time is 1:00AM.
 - Sales was relatively averaged between 2:00AM to 6:00AM.
 # Challenges
-- Discovered multiple values for a variable.
+- Discovered multiple values on a variable.
 - Multiple errors while merging transaction dimension table.
 - Incorrect values in the dataset.
