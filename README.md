@@ -1,5 +1,5 @@
 # COFFEE SHOP SALES DASHBOARD
-A collection of datasets from three locations of operation namely: Astoria, Hell's Kitchen and Lower Manhattan. This analysis focused on the first and second quarters of 2023. Datasets was obtained from a spreadsheet. All data query, cleaning and visualization were created on PowerBi. The analysis focused specifically on the sales performance of the three locations (Astoria, Hell's Kitchen, and Lower Manhattan), comparing sales figures, identifying top-performing locations, analyzing trends over time, and identifying factors influencing sales performance.
+A collection of datasets from three locations of operation namely: Astoria, Hell's Kitchen and Lower Manhattan. This analysis focused on the first and second quarters of 2023. Datasets was obtained from a spreadsheet. All data query, cleaning and visualization were created on PowerBi. The analysis also describes the sales performance of the three locations (Astoria, Hell's Kitchen, and Lower Manhattan), comparing sales figures, identifying top-performing products, analyzing trends over time, and identifying factors influencing sales performance.
 
 - Sales Performance Overview (Sliced by: Month)
 - Total Store: 3
