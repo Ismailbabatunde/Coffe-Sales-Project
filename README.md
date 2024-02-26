@@ -1,5 +1,5 @@
 # COFFEE SHOP SALES DASHBOARD
-A collection of datasets from three locations of operation namely; Astoria, Hell's Kitchen and Lower Manhattan. This analysis focused on the first and second quater sales of 2023. All Data query, cleaning and visualization were created on PowerBi. 
+A collection of datasets from three locations of operation namely; Astoria, Hell's Kitchen and Lower Manhattan. This analysis focused on the first and second quarter sales of 2023. All Data query, cleaning and visualization were created on PowerBi. 
 # Key Insights
 - Sales Performance Overview (Sliced by: Month)
 - Total Store: 3
@@ -14,12 +14,12 @@ A collection of datasets from three locations of operation namely; Astoria, Hell
 - Flavours 
 - Packaged Chocolate
 # Summary of Findings
-- Hightest grossing product is Tea.
+- Highest grossing product is Tea.
 - Lowest grossing product is Packaged Chocolate.
 - June had the highest amount sold at $166,486.
 - February had the lowest amount sold at $76,146.
-- Sales increased during the second quater.
-- Sales declined by 38% in the first quater.
+- Sales increased during the second quarter.
+- Sales declined by 38% in the first quarter.
 - Highest sales time ranged between 7:00AM to 11:00AM.
 - Lowest sales time is 1:00AM.
 - Sales was relatively averaged between 2:00AM to 6:00AM.
